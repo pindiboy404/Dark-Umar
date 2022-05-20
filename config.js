@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['918590967139','919744196187','917012074386'] // Letakan nomor kamu disini
+global.owner = ['923165123719','919057593646','8801948381013'] // Letakan nomor kamu disini
 global.mods = [] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -35,9 +35,9 @@ function _0x3dc2(_0x4d22a2,_0x4bda1a){var _0x5e0a56=_0x5e0a();return _0x3dc2=fun
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
-global.fla = 'https://i.imgur.com/707WLbK.jpeg'
+global.fla = 'https://i.imgur.com/3IXvvSC.jpeg'
 
-global.watermark = '© Wizard-Ser'
+global.watermark = '© Dark-Umar'
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
