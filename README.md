@@ -1,11 +1,11 @@
 # Wizard-Ser
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/1PWx69w.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/3IXvvSC.jpeg" width="200" height="200"/>
 
 <p align="center">
-  <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/darkdevil_umar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/919057593646"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## <!-- Typing SVG -->
@@ -21,7 +21,7 @@
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
-[`Click Here For Tutorial`](https://youtu.be/5shzvYdTasw)
+[`Click Here For Tutorial`](https://www.youtube.com/c/UMARMODS)
 
 ----------
 
@@ -41,7 +41,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
 
 Test
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Wizard-Ser) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pindiboy404/Dark-Umar) 
 ----------
 
 
@@ -62,7 +62,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
 <p align="center">
-  <a href="https://github.com/Ajmal-Achu/Wizrad-Ser"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
+  <a href="https://github.com/pindiboy404/Dark-Umar"><img src="https://i.imgur.com/3IXvvSC.jpeg" />
 </p>
 
 ## 📢 Guide
