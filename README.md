@@ -1,4 +1,4 @@
-# Wizard-Ser
+# DARK-UMAR
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/3IXvvSC.jpeg" width="200" height="200"/>
@@ -12,7 +12,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Wizard+Ser+Is+A+Modified+Version+Of;Eva+By+SudoAnirudh;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Wizard+Ser+Is+A+Modified+Version+Of;Eva+By+DARK UMAR;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
             alt="Typing SVG"
         />
     </a>
@@ -34,7 +34,7 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@umarlegend/Dark-Umar-QR-test-1)
 
 ## `DEPLOY`
 
