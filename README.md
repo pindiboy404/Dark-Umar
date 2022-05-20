@@ -12,7 +12,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Wizard+Ser+Is+A+Modified+Version+Of;Eva+By+DARK UMAR;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Umar+Dev+Is+A+Modified+Version+Of;Eva+By+DarkUmar;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
             alt="Typing SVG"
         />
     </a>
