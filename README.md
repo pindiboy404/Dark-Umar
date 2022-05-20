@@ -76,27 +76,27 @@ Click WA logo to Join Support Group 👇
 ## Developers
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![DARK UMAR](https://i.imgur.com/viQgVIi.jpeg)](https://github.com/umarlegend)[`DARK UMAR`](https://github.com/umarlegend)
 ----|
    `Base, Bug Fixes, Modules`
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+  [![UMAR](https://i.imgur.com/MkViMiJ.jpeg )](https://github.com/pindiboy404)[`Umar`](https://github.com/pindiboy404)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
+   [![it's Me Umar](https://i.imgur.com/1PkExzw.jpeg)](https://github.com/umarlegend)[`it's Me Umar`](https://github.com/umarlegend)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
-   [![DEVILSER](https://i.imgur.com/CqEfYef.jpeg)](https://github.com/DEVILSER)[`DEVILSER`](https://github.com/DEVILSER)
+   [![UMAR DEVIL](https://i.imgur.com/ifWleKD.jpeg)](https://github.com/pindiboy404)[`UMAR DEVIL`](https://github.com/pindiboy404)
 ----|
    `Bug Fixes, Modules, Commits`
 
-[![JOKER_SER](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
+[![UMAR_SER](https://i.imgur.com/UDkFvc0.jpeg)](https://github.com/pindiboy404)[`UMAR_SER`](https://github.com/pindiboy404)
 ----|
    `Bug Fixes, Modules, Commits`
 
-[![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
+[![Single Umar ☺️](https://i.imgur.com/lGh5edH.jpeg)](https://github.com/umarlegend)[`Single Umar ☺️`](https://github.com/umarlegend)
 ----|
    `Bug Fixes, Modules`
 
